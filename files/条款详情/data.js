@@ -1,0 +1,7 @@
+﻿$axure.loadCurrentPage(
+(function() {
+    var _ = function() { var r={},a=arguments; for(var i=0; i<a.length; i+=2) r[a[i]]=a[i+1]; return r; }
+    var _creator = function() { return _(b,c,d,e,f,g,h,g,i,[j,k,l,m,n,o,p,q,r,s,t,u,v,w,x,y,z],A,_(B,C,D,E,k,F,G,_(),H,_(I,J,K,L,M,_(N,O,P,Q),R,null,S,L,T,L,U,V,W,null,X,Y,Z,ba,bb,bc,bd,Y),be,_(),bf,_(),bg,_(bh,[])),bi,_(),bj,_());}; 
+var b="url",c="条款详情.html",d="generationDate",e=new Date(1522388089258.98),f="isCanvasEnabled",g=false,h="isAdaptiveEnabled",i="variables",j="OnLoadVariable",k="name",l="return_type",m="mingcheng",n="rl_date",o="rl_day",p="prj_type",q="RETURN_FLAG",r="RETURN_NAME",s="Num",t="INV_NUM",u="maintenance_status",v="wb_return",w="bw_flag",x="AZ_FLAG",y="AZ_PD",z="NewVariable",A="page",B="packageId",C="330f379155f04787ac2e241e67465707",D="type",E="Axure:Page",F="条款详情",G="notes",H="style",I="baseStyle",J="627587b6038d43cca051c114ac41ad32",K="pageAlignment",L="near",M="fill",N="fillType",O="solid",P="color",Q=0xFFFFFFFF,R="image",S="imageHorizontalAlignment",T="imageVerticalAlignment",U="imageRepeat",V="auto",W="favicon",X="sketchFactor",Y="0",Z="colorStyle",ba="appliedColor",bb="fontName",bc="FontAwesome",bd="borderWidth",be="adaptiveStyles",bf="interactionMap",bg="diagram",bh="objects",bi="masters",bj="objectPaths";
+return _creator();
+})());
